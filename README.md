@@ -9,3 +9,14 @@ Python基础专题
 3、[Python中数据深拷贝、浅拷贝](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483947&idx=1&sn=a935167342b44402a837c0c878930f0c&chksm=f9e000e5ce9789f3bd4ab63b6dcdfebed987be73fc8709d5fd49c99de245d1de37fea25edca4&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)
 4、[Python中的作用域](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483960&idx=1&sn=a722c0f53a543838ab955fc67470c23c&chksm=f9e000f6ce9789e05991a3302ffefe7b0fb80482314b0bcf987fe2a072c9df74d172f2a7bc7d&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)
 5、[Python中的内存管理机制](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483972&idx=1&sn=b3ec8e796437d52ead28948155cb7e99&chksm=f9e0008ace97899ca0c1e64178b4ec912460114e1c84051909e85ec26869fbdc5465996933cd&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)
+
+
+
+
+
+
+
+
+
+
+
