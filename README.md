@@ -6,7 +6,7 @@ Python基础专题
 
 1、[Python中的线程和进程](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483923&idx=1&sn=36d4f165912397b72f73c389a7f34c7a&chksm=f9e000ddce9789cb9b55cbac24f6c6567dbde8f4663d0dd98bb96ae0acb960f82080bc99d21e&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 2、[Python多线程实战](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483928&idx=1&sn=cd5934c04cb0608576faa134c1e94352&chksm=f9e000d6ce9789c001d3984e718273510696e3d1bfe60af8433f1534b860a7a2451a33aaf279&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
-3、[Python中数据深拷贝、浅拷贝](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=22474839  47&idx=1&sn=a935167342b44402a837c0c878930f0c&chksm=f9e000e5ce9789f3bd4ab63b6dcdfebed987be73fc8709d5fd49c99de245d1de37fea25edca4&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
+3、[Python中数据深拷贝、浅拷贝](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483947&idx=1&sn=a935167342b44402a837c0c878930f0c&chksm=f9e000e5ce9789f3bd4ab63b6dcdfebed987be73fc8709d5fd49c99de245d1de37fea25edca4&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 4、[Python中的作用域](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483960&idx=1&sn=a722c0f53a543838ab955fc67470c23c&chksm=f9e000f6ce9789e05991a3302ffefe7b0fb80482314b0bcf987fe2a072c9df74d172f2a7bc7d&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 5、[Python中的内存管理机制](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247483972&idx=1&sn=b3ec8e796437d52ead28948155cb7e99&chksm=f9e0008ace97899ca0c1e64178b4ec912460114e1c84051909e85ec26869fbdc5465996933cd&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 
@@ -41,8 +41,6 @@ Python综合专题
 6、[东半球最强Python新手100天学习计划开源，这次再学不会算我输！](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247484256&idx=1&sn=b3ac5836875d46fed94bc0298cb7c075&chksm=f9e001aece9788b876199db0f085ceddf3799f62ffeb239b957f28e5a655e777233d2a937dab&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 7、[向Excel说再见，神级编辑器统一表格与Python](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247484259&idx=1&sn=e975769abf4341c2ca5b0ee2fe3165f9&chksm=f9e001adce9788bbffe4e606764f6cec96ebf35cbe34e86ed44a3cdc80e748c7a00512c3a979&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 8、[牛逼，竟然可以用 Python 操作 Word 文档，这么多的骚操作！](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247484261&idx=1&sn=ab78a286fb59e1bf13b4e4a26d153472&chksm=f9e001abce9788bde513f81f7c61127706e0151ec701fb65902dcdd10824f4d72c111e3d4cc4&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
-
-
 
 
 
