@@ -1,6 +1,4 @@
-# Java
-
-Java Search
+# Java Search
 
 Python基础专题   
 
@@ -41,7 +39,3 @@ Python综合专题
 6、[东半球最强Python新手100天学习计划开源，这次再学不会算我输！](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247484256&idx=1&sn=b3ac5836875d46fed94bc0298cb7c075&chksm=f9e001aece9788b876199db0f085ceddf3799f62ffeb239b957f28e5a655e777233d2a937dab&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 7、[向Excel说再见，神级编辑器统一表格与Python](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247484259&idx=1&sn=e975769abf4341c2ca5b0ee2fe3165f9&chksm=f9e001adce9788bbffe4e606764f6cec96ebf35cbe34e86ed44a3cdc80e748c7a00512c3a979&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
 8、[牛逼，竟然可以用 Python 操作 Word 文档，这么多的骚操作！](https://mp.weixin.qq.com/s?__biz=MzUyMTAzMzYzMw==&mid=2247484261&idx=1&sn=ab78a286fb59e1bf13b4e4a26d153472&chksm=f9e001abce9788bde513f81f7c61127706e0151ec701fb65902dcdd10824f4d72c111e3d4cc4&token=1133047752&lang=zh_CN&scene=21#wechat_redirect)  
-
-
-
-顶顶顶
